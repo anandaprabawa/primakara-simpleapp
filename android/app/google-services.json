@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "694900601173",
+    "firebase_url": "https://primakara-simple-app.firebaseio.com",
+    "project_id": "primakara-simple-app",
+    "storage_bucket": "primakara-simple-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694900601173:android:3fa114322c29cb45",
+        "android_client_info": {
+          "package_name": "com.simpleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694900601173-djbr9epsr6ud1ia9mt0sb8jijbbagir0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLNTaRHFZ0HPCV3SCtaup4GE12Q37hAuQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
